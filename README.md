@@ -14,7 +14,7 @@ A production-ready RAG-based AI agent for answering questions from research pape
 ## Architecture
 
 ```
-document-qa-agent/
+DOC-agent/
 ├── app.py                  # Streamlit UI with error handling
 ├── agent/
 │   ├── qa_engine.py       # Intent detection & RAG pipeline
@@ -39,7 +39,7 @@ document-qa-agent/
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd document-qa-agent
+   cd DOC-agent
    ```
 
 2. **Create virtual environment:**
