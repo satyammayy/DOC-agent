@@ -1,0 +1,17 @@
+pymupdf
+pdfplumber
+unstructured
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+langchain
+sentence-transformers
+transformers>=4.30.0
+huggingface-hub>=0.20.0
+google-generativeai
+langchain-google-genai
+streamlit
+arxiv
+python-dotenv
+requests
